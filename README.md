@@ -32,9 +32,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 
 ## Authors
-* **Muhammad Reza Erfit** [RezaErfit](https://www.instagram.com/reza_erfit/)
-* **Fathurrahman Syarief** [austhopia](https://github.com/fathur-rs)
-* **Nalia Graciella Kerrysa** [NaliaGK](https://github.com/NaliaGK)
+<!-- * **Muhammad Reza Erfit** [RezaErfit](https://www.instagram.com/reza_erfit/) -->
+<!-- * **Fathurrahman Syarief** [austhopia](https://github.com/fathur-rs) -->
+<!-- * **Nalia Graciella Kerrysa** [NaliaGK](https://github.com/NaliaGK) -->
 * **Nicholas Juan Kalvin**  [Neek0tine](https://github.com/Neek0tine)
 
 ## Contributors
