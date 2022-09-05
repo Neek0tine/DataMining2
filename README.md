@@ -2,9 +2,8 @@
 <a href="https://github.com/Neek0tine/DataMining2/blob/main/LICENSE" ><img src="https://img.shields.io/github/license/Neek0tine/DataMining2"></a>
 <a href="https://github.com/Neek0tine/DataMining2/commits/main"><img src="https://img.shields.io/github/commit-activity/m/Neek0tine/DataMining2"></a>
 
-
-
 <a href="https://github.com/Neek0tine/DataMining2"><img src="https://github.com/Neek0tine/DataMining2/blob/main/funsies/OSDMPR.gif" alt="Procrastinate" width="1080"/></a><br>
+
 
 ## What is it?
 **This repository aims to helps everyone, especially data science students of Airlangga Univeristy to understand more about Data Mining. This repository is filled with projects that are being developed or is completed. ** 
@@ -20,7 +19,11 @@ A : Yes.
 A : Perhaps.
 
 **Q : "What is the true purpose of this repository?"**<br>
+<<<<<<< HEAD
 A : To bring Peace, dignity and equality on a healthy planet while maintaining of international peace and securit through afternoon naps and absolutely nothing.
+=======
+A : To bring Peace, dignity and equality on a healthy planet while maintaining international peace and security through afternoon naps and absolutely nothing.
+>>>>>>> 91ccfbfd4c4f016aee96231f323f16689bb6447d
 
 ## End-User License Agreement
 As per the MIT License:
