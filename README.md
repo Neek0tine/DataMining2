@@ -38,11 +38,11 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Contributors
 * **Vincent A.** [Tonald Drump](https://www.instagram.com/bababooey_sfx_2/)
-* **Dhaval C. K.** [PIRATE](https://www.instagram.com/dhavalck/)
+<!-- * **Dhaval C. K.** [PIRATE](https://www.instagram.com/dhavalck/) -->
 
 ## Contributing
 
 Pull requests are welcome. For major changes, how-to, and in-depth explanation, please contact one of the authors.
 ## License
 <br>
-This project is licensed under GNU General Public License v3.0 - see the [LICENSE](https://github.com/Neek0tine/Tweetoxicity/blob/main/LICENSE) file for details.
+This project is licensed under GNU General Public License v3.0 - see the [LICENSE](https://github.com/Neek0tine/DataMining2/blob/main/LICENSE) file for details.
