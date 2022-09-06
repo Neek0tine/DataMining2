@@ -19,11 +19,7 @@ A : Yes.
 A : Perhaps.
 
 **Q : "What is the true purpose of this repository?"**<br>
-<<<<<<< HEAD
-A : To bring Peace, dignity and equality on a healthy planet while maintaining of international peace and securit through afternoon naps and absolutely nothing.
-=======
 A : To bring Peace, dignity and equality on a healthy planet while maintaining international peace and security through afternoon naps and absolutely nothing.
->>>>>>> 91ccfbfd4c4f016aee96231f323f16689bb6447d
 
 ## End-User License Agreement
 As per the MIT License:
