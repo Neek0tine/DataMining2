@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3379a99c-9756-4ffa-b3c8-f76609ceb74c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/162012133068_Nicholas Juan Kalvin_Week 4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/162012133068_Nicholas Juan Kalvin_Week 4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week4/scratch.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +161,7 @@
       <workItem from="1662350944910" duration="3391000" />
       <workItem from="1662358423889" duration="855000" />
       <workItem from="1663073966065" duration="158000" />
+      <workItem from="1663658912372" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Everything IG">
       <created>1662358443741</created>
