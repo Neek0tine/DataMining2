@@ -2,7 +2,7 @@
 <a href="https://github.com/Neek0tine/DataMining2/blob/main/LICENSE" ><img src="https://img.shields.io/github/license/Neek0tine/DataMining2"></a>
 <a href="https://github.com/Neek0tine/DataMining2/commits/main"><img src="https://img.shields.io/github/commit-activity/m/Neek0tine/DataMining2"></a>
 
-<a href="https://github.com/Neek0tine/DataMining2"><img src="https://github.com/Neek0tine/DataMining2/blob/main/funsies/OSDMPR.gif" alt="Procrastinate" width="1080"/></a><br>
+<a href="https://github.com/Neek0tine/DataMining2"><img src="https://github.com/Neek0tine/DataMining2/blob/main/Artworks/OSDMPR.gif" alt="Procrastinate" width="1080"/></a><br>
 
 
 ## What is it?
