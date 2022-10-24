@@ -1,3 +1,0 @@
-#!c:\users\nicho\pycharmprojects\datamining2\venv\scripts\python.exe
-from numba.pycc import main
-main()
